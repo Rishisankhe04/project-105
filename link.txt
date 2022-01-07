@@ -1,0 +1,5 @@
+https://teachablemachine.withgoogle.com/models/5ED1gGwIL/
+Father
+Brother
+Mother
+Sister
